@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056185954893",
+    "firebase_url": "https://kumabase14.firebaseio.com",
+    "project_id": "kumabase14",
+    "storage_bucket": "kumabase14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056185954893:android:fd07e679c943311b046204",
+        "android_client_info": {
+          "package_name": "com.example.rona.kumatraining14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056185954893-v5ph520mjklggni6ao313e9qqp1kbk1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rona.kumatraining14",
+            "certificate_hash": "70fc5ccf3e05d4dd15dccbeaf0cc0cddac5944de"
+          }
+        },
+        {
+          "client_id": "1056185954893-t02ie91c28qrfcvhora0mct8gbkj9ube.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gxX6IWDQLKEjlTwYGrIM209tZSHp21s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056185954893-t02ie91c28qrfcvhora0mct8gbkj9ube.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

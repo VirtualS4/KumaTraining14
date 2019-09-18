@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddSkills">
+
+    <TextView
+        android:id="@+id/bear_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp">
+
+    </TextView>
+    <EditText
+        android:id="@+id/txt_skill"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Skill name">
+
+    </EditText>
+    <SeekBar
+        android:id="@+id/powerlevel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="5">
+
+    </SeekBar>
+    <Button
+        android:id="@+id/btn_add"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Skill">
+
+    </Button>
+
+    <ListView
+        android:id="@+id/listviewskills"
+        android:layout_width="match_parent"
+        android:layout_height="400dp">
+
+    </ListView>
+
+</LinearLayout>

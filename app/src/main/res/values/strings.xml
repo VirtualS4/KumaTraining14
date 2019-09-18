@@ -1,0 +1,11 @@
+<resources>
+    <array name="BearCuteness">
+        <item>Yuna</item>
+        <item>Kuma Yuru</item>
+        <item>Kuma Kyuu</item>
+        <item>Honey Bears</item>
+        <item>Plushie</item>
+        <item>Bear</item>
+    </array>
+    <string name="app_name">KumaTraining14</string>
+</resources>
